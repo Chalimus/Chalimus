@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 - 🚀 Building hands-on projects to strengthen real-world security skills
 
 ##### Skills
-<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src= "https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bash,linux,ubuntu&perline=5)](https://skillicons.dev)
 
 ##### Connect with Me
 ![http://instagram.com/chalimus_candra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
