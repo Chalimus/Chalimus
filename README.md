@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bash,linux,ubuntu&perline=5)](https://skillicons.dev)
 
 ##### Connect with Me
-![http://instagram.com/chalimus_candra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://instagram.com/chalimus_candra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/chalimus-candra-daniswara-wisam-prakoso-306283286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 #### My Github Stats>
 ![Chalimus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chalimus&show_icons=true&theme=tokyonight)
@@ -42,11 +42,13 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<!-- 
+###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chalimus/Chalimus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chalimus/Chalimus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chalimus/Chalimus/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Chalimus/Chalimus/output/snake.svg" alt="Snake animation" />
+
+### -->
 
 ###
